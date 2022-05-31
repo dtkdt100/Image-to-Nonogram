@@ -1,4 +1,6 @@
 # Default ignored files
 venv/
 .idea/
+idea/
 __pycache__/
+__pycache__/image_utils.cpython-38.pyc
